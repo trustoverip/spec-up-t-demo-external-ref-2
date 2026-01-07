@@ -1,32 +1,10 @@
 {
   "name": "spec-up-t-demo-external-ref-2",
-  "version": "1.0.0",
-  "description": "Gardening glossary (plant lifecycle & propagation focus) for testing tref and xref functionality in Spec-Up-T",
+  "version": "2.0.2",
   "license": "Apache-2.0",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/trustoverip/spec-up-t-demo-external-ref-2.git"
-  },
-  "homepage": "https://github.com/trustoverip/spec-up-t-demo-external-ref-2#readme",
-  "bugs": {
-    "url": "https://github.com/trustoverip/spec-up-t-demo-external-ref-2/issues"
-  },
-  "keywords": [
-    "spec-up-t",
-    "glossary",
-    "gardening",
-    "plant-lifecycle",
-    "propagation",
-    "external-reference",
-    "tref",
-    "xref"
-  ],
-  "author": "Trust over IP Foundation",
-  "files": [
-    "spec/",
-    "specs.json",
-    "README.md",
-    "static/",
-    "assets/"
-  ]
+  "description": "Quick setup for a specification with the Spec-Up-T tool.",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "spec-up-t": "^1.3.0"
+  }
 }
