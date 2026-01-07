@@ -7,5 +7,5 @@ dist
 .env
 coverage
 build
-.history
+.history/
 /.cache/
