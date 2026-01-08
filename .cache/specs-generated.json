@@ -1,0 +1,42 @@
+{
+  "specs": [
+    {
+      "title": "Spec-Up-T Demo External Ref 2",
+      "description": "Gardening glossary focused on plant lifecycle and propagation concepts - used to demonstrate tref and xref functionality",
+      "author": "Trust over IP Foundation",
+      "spec_directory": "./spec",
+      "spec_terms_directory": "terms-definitions",
+      "output_path": "./docs",
+      "markdown_paths": [
+        "spec-head.md",
+        "terms-and-definitions-intro.md",
+        "terms-definitions/annual.md",
+        "terms-definitions/compost.md",
+        "terms-definitions/dormancy.md",
+        "terms-definitions/fertilizer.md",
+        "terms-definitions/germination.md",
+        "terms-definitions/grafting.md",
+        "terms-definitions/mulch.md",
+        "terms-definitions/propagation.md",
+        "terms-definitions/pruning.md",
+        "terms-definitions/seedling.md",
+        "terms-definitions/soil.md",
+        "terms-definitions/watering.md",
+        "example-markup-in-markdown.md",
+        "spec-body.md"
+      ],
+      "logo": "https://raw.githubusercontent.com/trustoverip/spec-up-t/refs/heads/master/src/install-from-boilerplate/boilerplate/static/logo.svg",
+      "logo_link": "https://github.com/trustoverip/spec-up-t",
+      "favicon": "https://raw.githubusercontent.com/trustoverip/spec-up-t/refs/heads/master/src/install-from-boilerplate/boilerplate/static/favicon.ico",
+      "source": {
+        "host": "github",
+        "account": "trustoverip",
+        "repo": "spec-up-t-demo-external-ref-2",
+        "branch": "main"
+      },
+      "external_specs": [],
+      "katex": false,
+      "anchor_symbol": "§"
+    }
+  ]
+}
