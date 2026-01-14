@@ -19,8 +19,7 @@
             "source": {
                 "host": "github",
                 "account": "trustoverip",
-                "repo": "spec-up-t-demo-external-ref-2",
-                "branch": "main"
+                "repo": "spec-up-t-demo-external-ref-2"
             },
             "external_specs": [],
             "katex": false,
